@@ -1,0 +1,2 @@
+# A-drummer
+JavaScript beginnings
